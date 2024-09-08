@@ -20,7 +20,7 @@
             label = "default";
             bindings = <
 &kp A              &kp V  &kp K_COPY  &kp K_PASTE
-&kp K_VOLUME_DOWN  &none  &none       &none
+&kp K_VOLUME_DOWN  &kp Q  &none       &none
                                       &mo 1        &mo 2
             >;
         };
